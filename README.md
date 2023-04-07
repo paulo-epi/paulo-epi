@@ -11,7 +11,7 @@
 
 I am a student at <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Epitech.
 
-- 🔭 I’m interested in Frontend development and UI/UX design.
+- 🔭 I’m interested in front-end and mobile development and UI/UX design.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I like to travel and read all kinds of books.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Paul%20Petit-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-julien-petit/)
